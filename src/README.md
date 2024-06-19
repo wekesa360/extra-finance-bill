@@ -264,7 +264,7 @@ title: Unpacking the Finance Bill 2024
 
 <div class="section" style="padding-top: 20px; padding-left: 35%;">
   <button class="button-primary" style="background-color: #333; color: #fff; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; margin-left: 10px;">
-    <a href="https://github.com/" style="color: #fff; text-decoration: none;">
+    <a href="https://github.com/wekesa360/extra-finance-bill" style="color: #fff; text-decoration: none;">
       <i class="fab fa-github" style="margin-right: 5px;"></i>GitHub
     </a>
   </button>
